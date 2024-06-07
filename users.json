@@ -1,0 +1,23 @@
+[
+    {
+        "f_name": "a",
+        "l_name": "k",
+        "email": "ak@gmail.com",
+        "password": "a",
+        "phone_number": ""
+    },
+    {
+        "f_name": "esraa",
+        "l_name": "khaled",
+        "email": "esraakhaled@gmail.com",
+        "password": "esraa",
+        "phone_number": ""
+    },
+    {
+        "f_name": "jo",
+        "l_name": "jo",
+        "email": "jo@gmail.com",
+        "password": "jo",
+        "phone_number": "01067465439"
+    }
+]
